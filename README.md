@@ -1,4 +1,4 @@
-# 🤚🔊 Hand Gesture Volume Control Using Python, OpenCV & MediaPipe
+# 🤚🔊 Hand Gesture Volume Control Using Object Detection
 
 This project allows you to control your system volume using simple hand gestures captured via your webcam. It uses **MediaPipe** for real-time hand landmark detection, **OpenCV** for image processing, and **PyAutoGUI** to simulate volume key presses.
 
@@ -21,9 +21,5 @@ This project allows you to control your system volume using simple hand gestures
 - [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
 
 ---
-
-## 🚀 Setup Instructions
-
-### 1. Clone the Repository
 
 #DevendraTiwari
